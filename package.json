@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/upmann.1021-plain-htmlelement-fork-ltuax5k4",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 32xfqvVvMXTuRbygqM7E --open"
+  }
+}
